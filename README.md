@@ -2,6 +2,10 @@
 
 ## Introduction
 
+Screenshot showing the moves a bead can make, in the middle of a game.
+
+![Game showing moves of a bead](screenshots/moves.png)
+
 This is an upload of a project I did for my 1st semester of university, where we were required to implement this sort of game at the end of our Programming Fundamentals course.
 
 ### Rules
@@ -38,4 +42,25 @@ I used the 64-bit binaries instead of the 32-bit ones.
 
 The compiled executable should be run from the root folder, not the one it is stored in (if they are different)
 
+## Screenshots
+At launch
 
+![At game launch](screenshots/start.png)
+
+
+
+Before starting
+
+![Choosing game board](screenshots/choosemap.png)
+
+
+
+Starting playing
+
+![At game start](screenshots/gamestart.png)
+
+
+
+Game over
+
+![Game over](screenshots/end.png)
